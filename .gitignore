@@ -1,0 +1,31 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.cursor*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# EMR sample images (배포는 Google Drive로)
+emr_samples/
+
+# Output
+output/
+*.csv
