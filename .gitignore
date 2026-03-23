@@ -23,9 +23,6 @@ build/
 Thumbs.db
 .DS_Store
 
-# EMR sample images (배포는 Google Drive로)
-emr_samples/
-
 # Output
 output/
 *.csv
