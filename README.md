@@ -6,7 +6,7 @@
 
 | 주차 | 주제 | 내용 |
 |------|------|------|
-| 1 | 멀티모달 LLM | GPT-4o에 EMR 이미지를 넣어 텍스트 추출 |
+| 1 | 멀티모달 LLM | GPT-5.4-nano에 EMR 이미지를 넣어 텍스트 추출 |
 | 2 | Structured Output | 추출 텍스트 → JSON 구조화 (환자명, 진단명, 처방 등) |
 | 3 | End-to-End 파이프라인 | 이미지 → OCR → 구조화 → CSV 일괄 자동화 |
 | 4 | Agent / 자동화 | Tool use로 다단계 작업 (코드 매핑, 청구 확인 등) |
@@ -14,7 +14,7 @@
 ## Colab에서 열기
 
 ```
-https://colab.research.google.com/github/{계정}/{레포}/blob/main/week1-multimodal/week1_multimodal.ipynb
+https://colab.research.google.com/github/Yuri-daepo/hospital-emr-ocr/blob/master/week1-multimodal/week1_multimodal.ipynb
 ```
 
 ## 준비물
